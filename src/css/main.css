@@ -5,6 +5,9 @@
 @import '@stackbit/components/styles/default/style.css';
 
 
+p.a {
+  font-family: "Times New Roman", Times, serif;
+}
 
 /* Examples of overriding CSS */
 /*
